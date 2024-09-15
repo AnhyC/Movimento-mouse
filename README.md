@@ -20,8 +20,7 @@
 <body>
     <div id="area" 
    interaja...
-    </div>
-    
+   </div>
     <script>
         var a = window.document.getElementById ('area')
         a.addEventListener('click' ,clicar)
