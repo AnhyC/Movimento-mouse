@@ -21,7 +21,8 @@
     <div id="area" 
    interaja...
     </div>
-          <script>
+    
+    <script>
         var a = window.document.getElementById ('area')
         a.addEventListener('click' ,clicar)
         a.addEventListener('mouseenter' , entrar)
@@ -42,4 +43,3 @@
     </script>
 </body>
 </html>
-  
